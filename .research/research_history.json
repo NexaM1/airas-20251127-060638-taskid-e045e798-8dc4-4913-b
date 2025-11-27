@@ -6,5 +6,82 @@
     "diffusion distillation speedup",
     "reduced-step diffusion inference",
     "efficient denoising diffusion"
+  ],
+  "research_study_list": [
+    {
+      "title": "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference"
+    },
+    {
+      "title": "Leveraging Early-Stage Robustness in Diffusion Models for Efficient and High-Quality Image Synthesis"
+    },
+    {
+      "title": "Post-Training Quantization on Diffusion Models"
+    },
+    {
+      "title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "Accelerating Convergence of Score-Based Diffusion Models, Provably"
+    },
+    {
+      "title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models"
+    },
+    {
+      "title": "Hessian-Free High-Resolution Nesterov Acceleration For Sampling"
+    },
+    {
+      "title": "Hessian-Free High-Resolution Nesterov Acceleration For Sampling"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "On Distillation of Guided Diffusion Models"
+    },
+    {
+      "title": "Plug-and-Play Diffusion Distillation"
+    },
+    {
+      "title": "Data-free Distillation of Diffusion Models with Bootstrapping"
+    },
+    {
+      "title": "One-step Diffusion with Distribution Matching Distillation"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference"
+    },
+    {
+      "title": "Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy"
+    },
+    {
+      "title": "ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting"
+    },
+    {
+      "title": "ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval"
+    },
+    {
+      "title": "Leveraging Early-Stage Robustness in Diffusion Models for Efficient and High-Quality Image Synthesis"
+    },
+    {
+      "title": "Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy"
+    },
+    {
+      "title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models"
+    },
+    {
+      "title": "Efficient Denoising Diffusion via Probabilistic Masking"
+    },
+    {
+      "title": "Fast Sampling of Diffusion Models via Operator Learning"
+    }
   ]
 }
